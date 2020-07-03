@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr Franklund's Funhouse"
 title_separator          : "-"
-name                     : &name "Clifton Franklud"
+name                     : &name "Clifton Franklund"
 description              : &description "A wild and crazy kind of guy."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "Dr_Franklund"
+  username               : &twitter
 facebook:
-  username               : "clifton.franklund"
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr Clifton Franklund"
   avatar           : "profile.png"
   bio              : "A wild and crazy kind of guy."
   location         : "Somewhere in the wilds of Michigan"
