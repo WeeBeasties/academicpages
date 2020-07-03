@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "A wild and crazy kind of guy."
   location         : "Somewhere in the wilds of Michigan"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Ferris State University"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=clifton+franklund"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "weebeasties"
   google_plus      :
   keybase          :
   instagram        :
